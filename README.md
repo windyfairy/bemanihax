@@ -1,3 +1,5 @@
+btw windyfairy made this lol
+
 # bemanihax
 
 The project build system and some of the utils are copied from bemanitools.
