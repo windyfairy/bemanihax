@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="shift-jis"?>
+<iidxhax>
+    <system>
+        <omnimix __type="bool">0</omnimix>
+        <bms __type="bool">0</bms>
+        <skip_camera_error __type="bool">0</skip_camera_error>
+        <lock_fps>
+            <enabled __type="bool">0</enabled>
+            <value __type="float">60.0000</value>
+        </lock_fps>
+        <monitor_adjust>
+            <enabled __type="bool">0</enabled>
+            <value __type="s32">10</value>
+        </monitor_adjust>
+        <debug_mode __type="bool">0</debug_mode>
+        <patch_sse42 __type="bool">0</patch_sse42>
+    </system>
+    <mode_select>
+        <premium_free __type="bool">0</premium_free>
+        <expert_mode __type="bool">0</expert_mode>
+    </mode_select>
+    <song_select>
+        <timer_freeze __type="bool">0</timer_freeze>
+        <premium_timer_freeze __type="bool">0</premium_timer_freeze>
+        <cursor_lock __type="bool">0</cursor_lock>
+        <unlock_all __type="bool">0</unlock_all>
+        <remove_song_select_color_banners __type="bool">0</remove_song_select_color_banners>
+        <all_video_preview __type="bool">0</all_video_preview>
+        <skip_decide_screen __type="bool">0</skip_decide_screen>
+    </song_select>
+    <song>
+        <cs_song_delay __type="bool">0</cs_song_delay>
+        <dark_mode __type="bool">0</dark_mode>
+        <hide_measure_lines __type="bool">0</hide_measure_lines>
+        <quick_retry __type="bool">0</quick_retry>
+        <all_notes_preview __type="bool">0</all_notes_preview>
+        <show_fs_total __type="bool">0</show_fs_total>
+    </song>
+    <ticker_output>
+        <top_left __type="bool">0</top_left>
+        <freeplay_ticker __type="bool">0</freeplay_ticker>
+        <notavailable_ticker __type="bool">0</notavailable_ticker>
+        <hide_all_text __type="bool">0</hide_all_text>
+    </ticker_output>
+</iidxhax>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="shift-jis"?>
+<popnhax>
+    <!-- Prevent Windows volume from being reset on boot -->
+    <unset_volume __type="bool">0</unset_volume>
+
+    <!-- Force booting directly into event mode -->
+    <event_mode __type="bool">0</event_mode>
+
+    <!-- Remove the timer completely without event mode -->
+    <remove_timer __type="bool">0</remove_timer>
+    <!-- or
+         Freeze the timer at 10 seconds after counting down -->
+    <freeze_timer __type="bool">0</freeze_timer>
+
+    <!-- Force unlock all songs and characters without a card -->
+    <unlock_all __type="bool">0</unlock_all>
+
+    <!-- Force skip menu and long note tutorials without a card -->
+    <skip_tutorials __type="bool">0</skip_tutorials>
+</popnhax>

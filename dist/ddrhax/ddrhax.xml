@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="shift-jis"?>
+<ddrhax>
+    <mute_announcer __type="bool">0</mute_announcer>
+    <freeze_timer __type="bool">0</freeze_timer>
+    <skip_tutorial __type="bool">0</skip_tutorial>
+    <fast_slow __type="bool">0</fast_slow>
+    <judge_bg __type="bool">0</judge_bg>
+    <darkest_bg __type="bool">0</darkest_bg>
+    <arrow_color __type="bool">0</arrow_color>
+    <ddr_selection __type="bool">0</ddr_selection>
+    <unlock_all __type="bool">0</unlock_all>
+    <pfree __type="bool">0</pfree>
+</ddrhax>

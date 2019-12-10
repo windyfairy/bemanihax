@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="shift-jis"?>
+<jubeathax>
+    <disable_matching __type="bool">0</disable_matching>
+    <freeze_menu_timer __type="bool">0</freeze_menu_timer>
+    <freeze_result_timer __type="bool">0</freeze_result_timer>
+    <skip_tutorial __type="bool">0</skip_tutorial>
+</jubeathax>
