@@ -1,7 +1,3 @@
-### Heads up!
-
-This is a mirror of the sourcecode, aka it's not run by the real windyfairy anymore.
-
 # bemanihax
 
 The project build system and some of the utils are copied from bemanitools.
